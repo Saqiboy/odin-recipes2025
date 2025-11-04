@@ -1,2 +1,2 @@
 # odin-recipes2025
-# Simple-Reciple-Website
+# Simple-Recipe-Website
